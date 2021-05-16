@@ -60,7 +60,7 @@ UN_BAN_COMMAND = get_config("UN_BAN_COMMAND", "unban")
 START_COMMAND = get_config("START_COMMAND", "start")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
-    "Hi!! Welcome to 𝐂𝐲𝐛𝐞𝐫𝐁𝐨𝐲𝐀𝐲𝐮𝐬𝐡𝐁𝐨𝐭🔥\n\nI am Official Bot of @CyberBoyAyush 😀\n\nSend Me Msg And I Will Forward It To My Master❤️\n\nVisit To Know More✨: https://cyberboyayush.in/me\n\nJoin @AyushBots For More👍👍"
+    "Hi!! Welcome to Carnival Shop Telegram Support Center 🔥.\n\nPlease Send All Details with order ID❤️\n\nWeb Help ✨: help.carnivalshop.in/me\n\nJoin @carnivalshop_Chat For More👍👍"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -71,7 +71,7 @@ START_OTHER_USERS_TEXT = int(get_config(
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "I am Online My Master @CyberBoyAyush ❣️❣️\n\n"
+        "I am Online My Master @Anshu594 ❣️❣️\n\n"
     )
 )
 # message to indicate,
